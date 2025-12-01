@@ -1,8 +1,6 @@
 
 # 🌟 FutureFund - Investment Roadmap for Retirement 🌟
 
-![FutureFund Logo](link-to-your-logo.png)
-
 ## Introduction
 
 Welcome to **FutureFund**! Our goal is to simplify your journey towards a secure and prosperous retirement. FutureFund leverages advanced machine learning models to create a personalized investment roadmap tailored to your unique financial profile.
@@ -83,16 +81,5 @@ We welcome contributions from the community! Please follow these steps to contri
 5. Push to the branch (\`git push origin feature-branch\`).
 6. Create a new Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or feedback, please reach out to us at:
-
-- 📧 Email: support@futurefund.com
-- 🐦 Twitter: [@FutureFund](https://twitter.com/futurefund)
-- 💼 LinkedIn: [FutureFund](https://linkedin.com/company/futurefund)
 
 
